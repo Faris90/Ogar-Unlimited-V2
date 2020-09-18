@@ -1,1 +1,3 @@
-### Connect using The Client[(http://wdr.icu)]
+http://wdr.icu is the client
+
+This repo is a WIP
